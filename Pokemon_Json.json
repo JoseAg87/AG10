@@ -612,7 +612,7 @@
     "prev_evolution": [{
       "num": "019",
       "name": "Rattata"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -672,7 +672,7 @@
     "prev_evolution": [{
       "num": "021",
       "name": "Spearow"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -729,7 +729,7 @@
     "prev_evolution": [{
       "num": "023",
       "name": "Ekans"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -784,7 +784,7 @@
     "prev_evolution": [{
       "num": "025",
       "name": "Pikachu"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -843,7 +843,7 @@
     "prev_evolution": [{
       "num": "027",
       "name": "Sandshrew"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -1084,7 +1084,7 @@
     "prev_evolution": [{
       "num": "035",
       "name": "Clefairy"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -1143,7 +1143,7 @@
     "prev_evolution": [{
       "num": "037",
       "name": "Vulpix"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -1200,7 +1200,7 @@
     "prev_evolution": [{
       "num": "039",
       "name": "Jigglypuff"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -1262,7 +1262,7 @@
     "prev_evolution": [{
       "num": "041",
       "name": "Zubat"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -1416,7 +1416,7 @@
     "spawn_time": "00:06",
     "multipliers": null,
     "weaknesses": [
-      ""Fire",
+      "Fire",
 	"Ice",
 	"Poison",
 	"Flying",
@@ -1488,7 +1488,7 @@
     "prev_evolution": [{
       "num": "048",
       "name": "Venonat"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
@@ -1547,7 +1547,7 @@
     "prev_evolution": [{
       "num": "050",
       "name": "Diglett"
-    }, ],
+    } ],
     
       "next_evolution": [{
       "num": "0",
